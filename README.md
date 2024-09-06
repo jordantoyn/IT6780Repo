@@ -19,7 +19,7 @@
       ```
   2. Navigate to the project directory:
       ```
-      // cd recipe-hub
+      // cd IT6780Repo
       ```
   4. Install dependencies:
       ```
